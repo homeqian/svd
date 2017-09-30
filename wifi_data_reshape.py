@@ -60,4 +60,4 @@ with open('mycsvfile.csv','wb') as csv_file:
 # 输出事例
 # print mydict
 # print mydict['00:ec:0a:c8:6d:ef']
-# 写入csv（errir）
+# 写入csv（error）
